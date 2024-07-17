@@ -6,3 +6,10 @@ body {
     justify-content: center;
     height: 90vh;
 }
+@media all and (max-width: 912px) {
+  .container{
+margin-top: 50px;
+    height: 50vh;
+  }
+  
+}
